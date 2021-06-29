@@ -2,6 +2,7 @@
 
 ![twilight_san_diego-tile](./twilight_san_diego-tile.png)
 
+
 ### Description
 
 Image taken at Sunset Cliffs, San Diego
@@ -17,11 +18,12 @@ Version 1.1.1 - The decode problem is still there in previous version. Change th
 
 Version 1.1.0 - Change the image format to PNG to fix the "Could not decode image" issue.
 
-### Screenshot
-
-![twilight_san_diego-screenshot](./twilight_san_diego-screenshot.png)
 
 ### Installation
 
 Install theme at [Chrome Web Store](https://chrome.google.com/webstore/detail/twilight_san_diego/ggegcpgjkliifijpnfnmlgjmcjmidaec?hl=en-US)
 
+
+### Screenshot
+
+![twilight_san_diego-screenshot](./twilight_san_diego-screenshot.png)
