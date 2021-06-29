@@ -8,7 +8,7 @@
 Have been using the classic theme for years but cannot find a dark version. So I made one.
 
 Project page:
-[https://github.com/czhang11/chrome-theme-pack/](https://github.com/czhang11/chrome-theme-pack/)
+[https://github.com/czhang11/chrome-theme-pack](https://github.com/czhang11/chrome-theme-pack)
 
 Update history:
 
