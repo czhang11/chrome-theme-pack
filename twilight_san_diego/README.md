@@ -23,7 +23,9 @@ Version 1.1.0 - Change the image format to PNG to fix the "Could not decode imag
 
 ### Installation
 
-Install theme at [Chrome Web Store](https://chrome.google.com/webstore/detail/twilight_san_diego/ggegcpgjkliifijpnfnmlgjmcjmidaec?hl=en-US)
+Install theme: [Chrome Web Store](https://chrome.google.com/webstore/detail/twilight_san_diego/ggegcpgjkliifijpnfnmlgjmcjmidaec?hl=en-US)
+
+The latest release: [v1.2.0](https://github.com/czhang11/chrome-theme-pack/releases/download/twilight_san_diego-v1.2.0/twilight_san_diego-v1.2.0.zip).
 
 
 ### Screenshot

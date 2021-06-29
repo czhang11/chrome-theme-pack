@@ -17,8 +17,9 @@ Version 1.1.0 - Update the theme metadata.
 
 ### Installation
 
-Install theme at [Chrome Web Store](https://chrome.google.com/webstore/detail/classic-in-dark/ilbiklogjdhcbejjklhhcmaegbmndpln?hl=en-US)
+Install theme: [Chrome Web Store](https://chrome.google.com/webstore/detail/classic-in-dark/ilbiklogjdhcbejjklhhcmaegbmndpln?hl=en-US)
 
+The latest release: [v1.1.0](https://github.com/czhang11/chrome-theme-pack/releases/download/classic_in_dark-v1.1.0/classic_in_dark-v1.1.0.zip).
 
 ### Screenshot
 
