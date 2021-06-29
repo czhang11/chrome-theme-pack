@@ -7,13 +7,13 @@ This project contains several customized themes for Chrome browser.
 
 ![classic_in_dark-tile](./classic_in_dark/classic_in_dark-tile.png)
 
-Install theme at [Chrome Web Store](https://chrome.google.com/webstore/detail/classic-in-dark/ilbiklogjdhcbejjklhhcmaegbmndpln?hl=en-US)
+Install theme at [Chrome Web Store](https://chrome.google.com/webstore/detail/classic_in_dark/ilbiklogjdhcbejjklhhcmaegbmndpln?hl=en-US)
 
-Source code: [https://github.com/czhang11/chrome-theme-pack/tree/main/classic-in-dark](https://github.com/czhang11/chrome-theme-pack/tree/main/classic-in-dark)
+Source code: [https://github.com/czhang11/chrome-theme-pack/tree/main/classic_in_dark](https://github.com/czhang11/chrome-theme-pack/tree/main/classic_in_dark)
 
 Screenshot:
 
-![classic-in-dark-screenshot](./classic_in_dark/classic_in_dark-screenshot.png)
+![classic_in_dark-screenshot](./classic_in_dark/classic_in_dark-screenshot.png)
 
 
 ## Twilight San Diego - A twilight theme with an ocean view at San Diego.
